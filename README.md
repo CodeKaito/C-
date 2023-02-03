@@ -6,4 +6,4 @@ The namespace declaration, using System, indicates that you are using the System
 
 A namespace is used to organize your code and is collection of classes, interfaces, structs, enums and delegates.
 
-Main method is the entry point into your application
+Main method is the entry point into your application.
