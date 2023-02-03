@@ -1,0 +1,15 @@
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\IntroductionToCsharp\IntroductionToCsharp\bin\Debug\net6.0\IntroductionToCsharp.exe
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\IntroductionToCsharp\IntroductionToCsharp\bin\Debug\net6.0\IntroductionToCsharp.deps.json
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\IntroductionToCsharp\IntroductionToCsharp\bin\Debug\net6.0\IntroductionToCsharp.runtimeconfig.json
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\IntroductionToCsharp\IntroductionToCsharp\bin\Debug\net6.0\IntroductionToCsharp.dll
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\IntroductionToCsharp\IntroductionToCsharp\bin\Debug\net6.0\IntroductionToCsharp.pdb
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\IntroductionToCsharp\IntroductionToCsharp\obj\Debug\net6.0\IntroductionToCsharp.csproj.AssemblyReference.cache
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\IntroductionToCsharp\IntroductionToCsharp\obj\Debug\net6.0\IntroductionToCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\IntroductionToCsharp\IntroductionToCsharp\obj\Debug\net6.0\IntroductionToCsharp.AssemblyInfoInputs.cache
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\IntroductionToCsharp\IntroductionToCsharp\obj\Debug\net6.0\IntroductionToCsharp.AssemblyInfo.cs
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\IntroductionToCsharp\IntroductionToCsharp\obj\Debug\net6.0\IntroductionToCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\IntroductionToCsharp\IntroductionToCsharp\obj\Debug\net6.0\IntroductionToCsharp.dll
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\IntroductionToCsharp\IntroductionToCsharp\obj\Debug\net6.0\refint\IntroductionToCsharp.dll
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\IntroductionToCsharp\IntroductionToCsharp\obj\Debug\net6.0\IntroductionToCsharp.pdb
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\IntroductionToCsharp\IntroductionToCsharp\obj\Debug\net6.0\IntroductionToCsharp.genruntimeconfig.cache
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\IntroductionToCsharp\IntroductionToCsharp\obj\Debug\net6.0\ref\IntroductionToCsharp.dll
