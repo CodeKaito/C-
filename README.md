@@ -7,4 +7,5 @@ The namespace declaration, using System, indicates that you are using the System
 Purpose of Main() method - Main method is the entry point into your application.
 
 ### Part 2 - C# Tutorial - Reading and writing to a console
+<img width="392" alt="image" src="https://user-images.githubusercontent.com/57111980/216837554-f87ce10d-c2e3-46fa-9695-863ae98bac6a.png">
 
