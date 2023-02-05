@@ -8,3 +8,6 @@ Purpose of Main() method - Main method is the entry point into your application.
 
 ### Part 2 - C# Tutorial - Reading and writing to a console
 
+To write to it we use Console.WriteLine and to read(input) we use Console.ReadLine().
+
+Since, we are writing to console, so we will use Console.Write
