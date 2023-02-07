@@ -48,6 +48,21 @@ Note: Unlike Java, the name of the C# file does not have to match the class name
 
 Since, we are writing to console, so we will use Console.WriteLine() method.
 
+- ### User Input
+You have already learned that Console.WriteLine() is used to output (print) values. Now we will use Console.ReadLine() to get user input.
+
+In the following example, the user can input his or hers username, which is stored in the variable userName. Then we print the value of userName:
+````
+// Type your username and press enter
+Console.WriteLine("Enter username:");
+
+// Create a string variable and get user input from the keyboard and store it in the variable
+string userName = Console.ReadLine();
+
+// Print the value of the variable (userName), which will display the input value
+Console.WriteLine("Username is: " + userName);
+````
+
 - ### Part 3 - C# Tutorial - Data types
 A variable in C# must be a specified data type:
 ![image](https://user-images.githubusercontent.com/57111980/217227481-8d6fcc38-04fe-43b0-8acf-2b44de23916e.png)
