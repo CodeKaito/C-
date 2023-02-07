@@ -52,7 +52,18 @@ do
 while (i < 5);
 ````
 In our example, if we want to do what we are doing with the IF statement we need the "DO WHILE" function.
-![image](https://user-images.githubusercontent.com/57111980/217243846-40e4e160-30ac-496a-a8c7-afebf2bcfa3d.png)
+````
+Console.WriteLine("Please enter your target?");
+int UserTarget = int.Parse(Console.ReadLine());
+
+int Start = 0;
+
+while (Start <= UserTarget)
+{
+    Console.WriteLine(Start);
+    Start++;
+}
+````
 
 With the "DO WHILE" loop we can iterate the entire code until the condition become "True":
 ![image](https://user-images.githubusercontent.com/57111980/217246403-c27930ce-6a2e-493c-9d2c-37a4600d4f8b.png)
