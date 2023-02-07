@@ -159,3 +159,4 @@ for (int i = 1; i <= 2; ++i)
   }
 }
 ````
+The number of times that the inner loop will be executed is indicated by the Statement 2 moltiplicated by the Statement 2 of the first loop.
