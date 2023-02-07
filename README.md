@@ -46,7 +46,7 @@ Note: C# is case-sensitive: "MyClass" and "myclass" has different meaning.
 
 Note: Unlike Java, the name of the C# file does not have to match the class name, but they often do (for better organization). When saving the file, save it using a proper name and add ".cs" to the end of the filename. To run the example above on your computer, make sure that C# is properly installed: Go to the Get Started Chapter for how to install C#. The output should be:
 
-Since, we are writing to console, so we will use Console.Write
+Since, we are writing to console, so we will use Console.WriteLine() method.
 
 - ### Part 3 - C# Tutorial - Data types
 A variable in C# must be a specified data type:
