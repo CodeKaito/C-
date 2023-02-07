@@ -25,5 +25,5 @@ do
         {
             Console.WriteLine("Invalid choice, please say Yes or No");
         }
-    } while (UserChoice != "Yes" && UserChoice != "No");
-} while (UserChoice == "Yes");
+    } while (UserChoice != "YES" && UserChoice != "NO");
+} while (UserChoice == "YES");
