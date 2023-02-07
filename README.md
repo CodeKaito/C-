@@ -38,6 +38,9 @@ do
 }
 while (condition);
 ````
+#### Do not forget to increase the variable used in the condition, otherwise the loop will never end!
+
+### Part 14 - C# Tutorial - do while loop in c#
 The example below uses a do/while loop. The loop will always be executed at least once, even if the condition is false, because the code block is executed before the condition is tested:
 ````
 int i = 0;
@@ -48,4 +51,3 @@ do
 }
 while (i < 5);
 ````
-#### Do not forget to increase the variable used in the condition, otherwise the loop will never end!
