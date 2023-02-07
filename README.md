@@ -57,3 +57,24 @@ In our example, if we want to do what we are doing with the IF statement we need
 With the "DO WHILE" loop we can iterate the entire code until the condition become "True":
 ![image](https://user-images.githubusercontent.com/57111980/217246403-c27930ce-6a2e-493c-9d2c-37a4600d4f8b.png)
 
+### Part 15 - C# Tutorial - for and foreach loops in c#
+When you know exactly how many times you want to loop through a block of code, use the for loop instead of a while loop:
+````
+for (statement 1; statement 2; statement 3) 
+{
+  // code block to be executed
+}
+````
+
+Statement 1 is executed (one time) before the execution of the code block.
+
+Statement 2 defines the condition for executing the code block.
+
+Statement 3 is executed (every time) after the code block has been executed.
+
+````
+for (int i = 0; i < 5; i++) 
+{
+  Console.WriteLine(i);
+}
+````
