@@ -1,8 +1,5 @@
 # C#
 ## My learning progress about C# and .Net
-##### Table of Contents  
-[Part 1 - C# Tutorial - Introduction.avi](#Part 1 - C# Tutorial - Introduction.avi)
-[Part 2 - C# Tutorial - Data types](#Part 2 - C# Tutorial - Data types)
 
 ### Part 1 - C# Tutorial - Introduction.avi
 Using System declaration
@@ -30,4 +27,15 @@ The int data type can store whole numbers from -2147483648 to 2147483647. In gen
 Floating Point Types:
 You should use a floating point type whenever you need a number with a decimal, such as 9.99 or 3.14515.
 
-The float and double data types can store fractional numbers. Note that you should end the value with an "F" for floats and "D" for doubles:
+The float and double data types can store fractional numbers. Note that you should end the value with an "F" for floats and "D" for doubles.
+
+### Part 13 - C# Tutorial - while loop in c#
+The while loop loops through a block of code as long as a specified condition is True:
+``
+do 
+{
+  // code block to be executed
+}
+while (condition);
+``
+
