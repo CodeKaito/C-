@@ -1,19 +1,19 @@
 # C#
 ## My learning progress about C# and .Net
 
-### Part 1 - C# Tutorial - Introduction.avi
+- ### Part 1 - C# Tutorial - Introduction.avi 
 Using System declaration
 The namespace declaration, using System, indicates that you are using the System namespace. If  you omit the using System, declaration, then you have to use the fully qualified name of the Console class. A namespace is used to organize your code and is collection of classes, interfaces, structs, enums and delegates. We will discuss about namespaces in detail in a later session.
 
 Purpose of Main() method - Main method is the entry point into your application.
 
-### Part 2 - C# Tutorial - Reading and writing to a console
+- ### Part 2 - C# Tutorial - Reading and writing to a console
 <img width="392" alt="image" src="https://user-images.githubusercontent.com/57111980/216837554-f87ce10d-c2e3-46fa-9695-863ae98bac6a.png">
 To write to it we use Console.WriteLine and to read(input) we use Console.ReadLine().
 
 Since, we are writing to console, so we will use Console.Write
 
-### Part 2 - C# Tutorial - Data types
+- ### Part 3 - C# Tutorial - Data types
 A variable in C# must be a specified data type:
 ![image](https://user-images.githubusercontent.com/57111980/217227481-8d6fcc38-04fe-43b0-8acf-2b44de23916e.png)
 Numbers:
@@ -29,7 +29,7 @@ You should use a floating point type whenever you need a number with a decimal, 
 
 The float and double data types can store fractional numbers. Note that you should end the value with an "F" for floats and "D" for doubles.
 
-### Part 13 - C# Tutorial - while loop in c#
+- ### Part 13 - C# Tutorial - while loop in c#
 The while loop loops through a block of code as long as a specified condition is True:
 ````
 do 
@@ -40,7 +40,7 @@ while (condition);
 ````
 #### Do not forget to increase the variable used in the condition, otherwise the loop will never end!
 
-### Part 14 - C# Tutorial - do while loop in c#
+- ### Part 14 - C# Tutorial - do while loop in c#
 The example below uses a do/while loop. The loop will always be executed at least once, even if the condition is false, because the code block is executed before the condition is tested:
 ````
 int i = 0;
@@ -98,7 +98,7 @@ do
 } while (UserChoice == "YES");
 ````
 
-### Part 15 - C# Tutorial - for and foreach loops in c#
+- ### Part 15 - C# Tutorial - for and foreach loops in c#
 When you know exactly how many times you want to loop through a block of code, use the for loop instead of a while loop:
 ````
 for (statement 1; statement 2; statement 3) 
