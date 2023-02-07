@@ -143,3 +143,19 @@ for (int j = 0; j <Numbers.Length; j++)
     Console.WriteLine(Numbers[j]);
 }
 ````
+
+It is also possible to place a loop inside another loop. This is called a nested loop.
+The "inner loop" will be executed one time for each iteration of the "outer loop":
+````
+// Outer loop
+for (int i = 1; i <= 2; ++i) 
+{
+  Console.WriteLine("Outer: " + i);  // Executes 2 times
+
+  // Inner loop
+  for (int j = 1; j <= 3; j++) 
+  {
+    Console.WriteLine(" Inner: " + j); // Executes 6 times (2 * 3)
+  }
+}
+````
