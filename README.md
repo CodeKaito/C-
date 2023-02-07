@@ -1,5 +1,6 @@
 # C#
 ## My learning progress about C# and .Net
+
 ### Part 1 - C# Tutorial - Introduction.avi
 Using System declaration
 The namespace declaration, using System, indicates that you are using the System namespace. If  you omit the using System, declaration, then you have to use the fully qualified name of the Console class. A namespace is used to organize your code and is collection of classes, interfaces, structs, enums and delegates. We will discuss about namespaces in detail in a later session.
@@ -26,4 +27,33 @@ The int data type can store whole numbers from -2147483648 to 2147483647. In gen
 Floating Point Types:
 You should use a floating point type whenever you need a number with a decimal, such as 9.99 or 3.14515.
 
-The float and double data types can store fractional numbers. Note that you should end the value with an "F" for floats and "D" for doubles:
+The float and double data types can store fractional numbers. Note that you should end the value with an "F" for floats and "D" for doubles.
+
+### Part 13 - C# Tutorial - while loop in c#
+The while loop loops through a block of code as long as a specified condition is True:
+````
+do 
+{
+  // code block to be executed
+}
+while (condition);
+````
+#### Do not forget to increase the variable used in the condition, otherwise the loop will never end!
+
+### Part 14 - C# Tutorial - do while loop in c#
+The example below uses a do/while loop. The loop will always be executed at least once, even if the condition is false, because the code block is executed before the condition is tested:
+````
+int i = 0;
+do 
+{
+  Console.WriteLine(i);
+  i++;
+}
+while (i < 5);
+````
+In our example, if we want to do what we are doing with the IF statement we need the "DO WHILE" function.
+![image](https://user-images.githubusercontent.com/57111980/217243846-40e4e160-30ac-496a-a8c7-afebf2bcfa3d.png)
+
+With the "DO WHILE" loop we can iterate the entire code until the condition become "True":
+![image](https://user-images.githubusercontent.com/57111980/217246403-c27930ce-6a2e-493c-9d2c-37a4600d4f8b.png)
+
