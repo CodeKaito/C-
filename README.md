@@ -51,3 +51,6 @@ do
 }
 while (i < 5);
 ````
+In our example, if we want to do what we are doing with the IF statement we need the "DO WHILE" function.
+![image](https://user-images.githubusercontent.com/57111980/217243846-40e4e160-30ac-496a-a8c7-afebf2bcfa3d.png)
+
