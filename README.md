@@ -31,11 +31,21 @@ The float and double data types can store fractional numbers. Note that you shou
 
 ### Part 13 - C# Tutorial - while loop in c#
 The while loop loops through a block of code as long as a specified condition is True:
-``
+````
 do 
 {
   // code block to be executed
 }
 while (condition);
-``
-
+````
+The example below uses a do/while loop. The loop will always be executed at least once, even if the condition is false, because the code block is executed before the condition is tested:
+````
+int i = 0;
+do 
+{
+  Console.WriteLine(i);
+  i++;
+}
+while (i < 5);
+````
+#### Do not forget to increase the variable used in the condition, otherwise the loop will never end!
