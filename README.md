@@ -1,5 +1,9 @@
 # C#
 ## My learning progress about C# and .Net
+##### Table of Contents  
+[Part 1 - C# Tutorial - Introduction.avi](#Part 1 - C# Tutorial - Introduction.avi)
+[Part 2 - C# Tutorial - Data types](#Part 2 - C# Tutorial - Data types)
+
 ### Part 1 - C# Tutorial - Introduction.avi
 Using System declaration
 The namespace declaration, using System, indicates that you are using the System namespace. If  you omit the using System, declaration, then you have to use the fully qualified name of the Console class. A namespace is used to organize your code and is collection of classes, interfaces, structs, enums and delegates. We will discuss about namespaces in detail in a later session.
