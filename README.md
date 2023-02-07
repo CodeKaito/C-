@@ -78,3 +78,27 @@ for (int i = 0; i < 5; i++)
   Console.WriteLine(i);
 }
 ````
+
+Example:
+````
+int[] Numbers = new int[3];
+
+Numbers[0] = 101;
+Numbers[1] = 102;
+Numbers[2] = 103;
+
+int i = 0;
+while (1 < Numbers.Length)
+{
+    Console.WriteLine(Numbers[i]);
+    i++;
+}
+````
+
+It's the same thing if we write the condition with the for loop, same way but more correct:
+````
+for (int j = 0; j <Numbers.Length; j++)
+{
+    Console.WriteLine(Numbers[j]);
+}
+````
