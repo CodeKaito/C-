@@ -1,0 +1,15 @@
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\WhileLoop\WhileLoop\bin\Debug\net6.0\WhileLoop.exe
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\WhileLoop\WhileLoop\bin\Debug\net6.0\WhileLoop.deps.json
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\WhileLoop\WhileLoop\bin\Debug\net6.0\WhileLoop.runtimeconfig.json
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\WhileLoop\WhileLoop\bin\Debug\net6.0\WhileLoop.dll
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\WhileLoop\WhileLoop\bin\Debug\net6.0\WhileLoop.pdb
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\WhileLoop\WhileLoop\obj\Debug\net6.0\WhileLoop.csproj.AssemblyReference.cache
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\WhileLoop\WhileLoop\obj\Debug\net6.0\WhileLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\WhileLoop\WhileLoop\obj\Debug\net6.0\WhileLoop.AssemblyInfoInputs.cache
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\WhileLoop\WhileLoop\obj\Debug\net6.0\WhileLoop.AssemblyInfo.cs
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\WhileLoop\WhileLoop\obj\Debug\net6.0\WhileLoop.csproj.CoreCompileInputs.cache
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\WhileLoop\WhileLoop\obj\Debug\net6.0\WhileLoop.dll
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\WhileLoop\WhileLoop\obj\Debug\net6.0\refint\WhileLoop.dll
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\WhileLoop\WhileLoop\obj\Debug\net6.0\WhileLoop.pdb
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\WhileLoop\WhileLoop\obj\Debug\net6.0\WhileLoop.genruntimeconfig.cache
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\WhileLoop\WhileLoop\obj\Debug\net6.0\ref\WhileLoop.dll
