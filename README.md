@@ -66,7 +66,37 @@ while (Start <= UserTarget)
 ````
 
 With the "DO WHILE" loop we can iterate the entire code until the condition become "True":
-![image](https://user-images.githubusercontent.com/57111980/217246403-c27930ce-6a2e-493c-9d2c-37a4600d4f8b.png)
+````
+string UserChoice = "";
+
+do
+{
+    Console.WriteLine("Please enter your target");
+    int UserTarget = int.Parse(Console.ReadLine());
+
+    int Start = 0;
+
+    while (Start <= UserTarget)
+    {
+        Console.Write(Start + " ");
+        Start = Start + 2;
+    }
+
+
+
+    do
+    {
+        Console.WriteLine("Do you want to continue - Yes or No ?");
+
+        UserChoice = Console.ReadLine().ToUpper();
+
+        if (UserChoice != "YES" && UserChoice != "NO")
+        {
+            Console.WriteLine("Invalid choice, please say Yes or No");
+        }
+    } while (UserChoice != "YES" && UserChoice != "NO");
+} while (UserChoice == "YES");
+````
 
 ### Part 15 - C# Tutorial - for and foreach loops in c#
 When you know exactly how many times you want to loop through a block of code, use the for loop instead of a while loop:
