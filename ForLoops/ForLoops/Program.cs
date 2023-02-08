@@ -10,7 +10,7 @@ for (int j = 0; j <Numbers.Length; j++)
 }
 
 int i = 0;
-while (1 < Numbers.Length)
+while (i < Numbers.Length)
 {
     Console.WriteLine(Numbers[i]);
     i++;

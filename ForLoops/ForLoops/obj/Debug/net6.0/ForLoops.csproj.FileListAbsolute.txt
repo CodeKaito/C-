@@ -1,0 +1,15 @@
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\ForLoops\ForLoops\bin\Debug\net6.0\ForLoops.exe
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\ForLoops\ForLoops\bin\Debug\net6.0\ForLoops.deps.json
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\ForLoops\ForLoops\bin\Debug\net6.0\ForLoops.runtimeconfig.json
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\ForLoops\ForLoops\bin\Debug\net6.0\ForLoops.dll
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\ForLoops\ForLoops\bin\Debug\net6.0\ForLoops.pdb
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\ForLoops\ForLoops\obj\Debug\net6.0\ForLoops.csproj.AssemblyReference.cache
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\ForLoops\ForLoops\obj\Debug\net6.0\ForLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\ForLoops\ForLoops\obj\Debug\net6.0\ForLoops.AssemblyInfoInputs.cache
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\ForLoops\ForLoops\obj\Debug\net6.0\ForLoops.AssemblyInfo.cs
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\ForLoops\ForLoops\obj\Debug\net6.0\ForLoops.csproj.CoreCompileInputs.cache
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\ForLoops\ForLoops\obj\Debug\net6.0\ForLoops.dll
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\ForLoops\ForLoops\obj\Debug\net6.0\refint\ForLoops.dll
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\ForLoops\ForLoops\obj\Debug\net6.0\ForLoops.pdb
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\ForLoops\ForLoops\obj\Debug\net6.0\ForLoops.genruntimeconfig.cache
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\ForLoops\ForLoops\obj\Debug\net6.0\ref\ForLoops.dll
