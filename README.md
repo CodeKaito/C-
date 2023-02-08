@@ -1,6 +1,6 @@
 # C# - My learning progress about C# and .Net
 
-### readme_table_of_contents
+### Index
 
 1. [ Introduction. ](#introduction)
 2. [ Reading and writing to a console. ](#part2)
