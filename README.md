@@ -1,4 +1,4 @@
-# C# - My learning progress about C# and .Net
+# My learning progress about C# and .Net
 
 ### Index
 
