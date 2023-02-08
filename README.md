@@ -1,5 +1,5 @@
-# C#
-# My learning progress about C# and .Net
+# C# - My learning progress about C# and .Net
+
 - ## Part 1 - C# Tutorial - Introduction.avi 
 Using System declaration
 The namespace declaration, using System, indicates that you are using the System namespace. If  you omit the using System, declaration, then you have to use the fully qualified name of the Console class. A namespace is used to organize your code and is collection of classes, interfaces, structs, enums and delegates. We will discuss about namespaces in detail in a later session.
@@ -62,7 +62,7 @@ string userName = Console.ReadLine();
 Console.WriteLine("Username is: " + userName);
 ````
 
-- ### Part 3 - C# Tutorial - Data types
+- ## Part 3 - C# Tutorial - Data types
 A variable in C# must be a specified data type:
 ![image](https://user-images.githubusercontent.com/57111980/217227481-8d6fcc38-04fe-43b0-8acf-2b44de23916e.png)
 Numbers:
@@ -147,7 +147,7 @@ do
 } while (UserChoice == "YES");
 ````
 
-- ### Part 15 - C# Tutorial - for and foreach loops in c#
+- ## Part 15 - C# Tutorial - for and foreach loops in c#
 When you know exactly how many times you want to loop through a block of code, use the for loop instead of a while loop:
 ````
 for (statement 1; statement 2; statement 3) 
