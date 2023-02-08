@@ -5,8 +5,9 @@
 1. [ Introduction. ](#introduction)
 2. [ Reading and writing to a console. ](#part2)
 3. [ Data types. ](#part3)
-4. [ String type. ](#part43)
-5. [ Conclusion. ](#conclusion)
+8. [ Arrays. ](#part8)
+13. [ While loop. ](#part13)
+15. [ For loop. ](#part15)
 
 
 <a name="introduction"></a>
@@ -90,7 +91,40 @@ You should use a floating point type whenever you need a number with a decimal, 
 
 The float and double data types can store fractional numbers. Note that you should end the value with an "F" for floats and "D" for doubles.
 
-- ### Part 13 - C# Tutorial - while loop in c#
+<a name="part8"></a>
+- ### Part 8 - Arrays
+Arrays are used to store multiple values in a single variable, instead of declaring separate variables for each value.
+
+To declare an array, define the variable type with square brackets:
+````
+string[] cars;
+````
+
+We have now declared a variable that holds an array of strings.
+
+To insert values to it, we can use an array literal - place the values in a comma-separated list, inside curly braces:
+````
+string[] cars = {"Volvo", "BMW", "Ford", "Mazda"};
+````
+
+You access an array element by referring to the index number.
+
+This statement accesses the value of the first element in cars:
+````
+string[] cars = {"Volvo", "BMW", "Ford", "Mazda"};
+Console.WriteLine(cars[0]);
+// Outputs Volvo
+````
+
+To find out how many elements an array has, use the Length property:
+````
+string[] cars = {"Volvo", "BMW", "Ford", "Mazda"};
+Console.WriteLine(cars.Length);
+// Outputs 4
+````
+
+<a name="part13"></a>
+- ### Part 13 - While loop
 The while loop loops through a block of code as long as a specified condition is True:
 ````
 do 
@@ -159,7 +193,8 @@ do
 } while (UserChoice == "YES");
 ````
 
-- ## Part 15 - C# Tutorial - for and foreach loops in c#
+<a name="part15"></a>
+- ## Part 15 - For and foreach loops
 When you know exactly how many times you want to loop through a block of code, use the for loop instead of a while loop:
 ````
 for (statement 1; statement 2; statement 3) 
