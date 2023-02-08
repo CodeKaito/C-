@@ -9,14 +9,14 @@
 5. [ Conclusion. ](#conclusion)
 
 <a name="introduction"></a>
-- ## Part1 - Introduction
+- ## Part 1 - Introduction
 Using System declaration
 The namespace declaration, using System, indicates that you are using the System namespace. If  you omit the using System, declaration, then you have to use the fully qualified name of the Console class. A namespace is used to organize your code and is collection of classes, interfaces, structs, enums and delegates. We will discuss about namespaces in detail in a later session.
 
 Purpose of Main() method - Main method is the entry point into your application.
 
 <a name="part2"></a>
-- ## Part2 - Reading and writing to a console
+- ## Part 2 - Reading and writing to a console
 ````
 using System;
 
@@ -73,7 +73,7 @@ Console.WriteLine("Username is: " + userName);
 ````
 
 <a name="part3"></a>
-- ## Part3 - Data types
+- ## Part 3 - Data types
 A variable in C# must be a specified data type:
 ![image](https://user-images.githubusercontent.com/57111980/217227481-8d6fcc38-04fe-43b0-8acf-2b44de23916e.png)
 Numbers:
