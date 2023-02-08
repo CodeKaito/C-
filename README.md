@@ -8,6 +8,12 @@
 4. [ String type. ](#part43)
 5. [ Conclusion. ](#conclusion)
 
+```diff
+- This is a red colored line
++ This is a green colored line
+@@ This is a purple colored line @@
+```
+
 <a name="introduction"></a>
 - ## Part 1 - Introduction
 Using System declaration
