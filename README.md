@@ -5,18 +5,18 @@
 1. [ Introduction. ](#introduction)
 2. [ Reading and writing to a console. ](#part2)
 3. [ Data types. ](#part3)
-4. [ Section 3. ](#section3)
+4. [ String type. ](#part43)
 5. [ Conclusion. ](#conclusion)
 
 <a name="introduction"></a>
-- ## Introduction
+- ## Part1 - Introduction
 Using System declaration
 The namespace declaration, using System, indicates that you are using the System namespace. If  you omit the using System, declaration, then you have to use the fully qualified name of the Console class. A namespace is used to organize your code and is collection of classes, interfaces, structs, enums and delegates. We will discuss about namespaces in detail in a later session.
 
 Purpose of Main() method - Main method is the entry point into your application.
 
 <a name="part2"></a>
-- ## Reading and writing to a console
+- ## Part2 - Reading and writing to a console
 ````
 using System;
 
@@ -73,7 +73,7 @@ Console.WriteLine("Username is: " + userName);
 ````
 
 <a name="part3"></a>
-- ## Data types
+- ## Part3 - Data types
 A variable in C# must be a specified data type:
 ![image](https://user-images.githubusercontent.com/57111980/217227481-8d6fcc38-04fe-43b0-8acf-2b44de23916e.png)
 Numbers:
@@ -100,7 +100,7 @@ while (condition);
 ````
 #### Do not forget to increase the variable used in the condition, otherwise the loop will never end!
 
-- ### Part 14 - C# Tutorial - do while loop in c#
+- ### Do while loop in c#
 The example below uses a do/while loop. The loop will always be executed at least once, even if the condition is false, because the code block is executed before the condition is tested:
 ````
 int i = 0;
