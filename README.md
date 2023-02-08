@@ -1,12 +1,22 @@
 # C# - My learning progress about C# and .Net
 
-- ## Part 1 - C# Tutorial - Introduction.avi 
+### readme_table_of_contents
+
+1. [ Introduction. ](#introduction)
+2. [ Reading and writing to a console. ](#part2)
+3. [ Data types. ](#part3)
+4. [ Section 3. ](#section3)
+5. [ Conclusion. ](#conclusion)
+
+<a name="introduction"></a>
+- ## Introduction
 Using System declaration
 The namespace declaration, using System, indicates that you are using the System namespace. If  you omit the using System, declaration, then you have to use the fully qualified name of the Console class. A namespace is used to organize your code and is collection of classes, interfaces, structs, enums and delegates. We will discuss about namespaces in detail in a later session.
 
 Purpose of Main() method - Main method is the entry point into your application.
 
-- ## Part 2 - C# Tutorial - Reading and writing to a console
+<a name="part2"></a>
+- ## Reading and writing to a console
 ````
 using System;
 
@@ -62,7 +72,8 @@ string userName = Console.ReadLine();
 Console.WriteLine("Username is: " + userName);
 ````
 
-- ## Part 3 - C# Tutorial - Data types
+<a name="part3"></a>
+- ## Data types
 A variable in C# must be a specified data type:
 ![image](https://user-images.githubusercontent.com/57111980/217227481-8d6fcc38-04fe-43b0-8acf-2b44de23916e.png)
 Numbers:
