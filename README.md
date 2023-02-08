@@ -240,3 +240,21 @@ for (int i = 0; i < 10; i++)
   Console.WriteLine(i);
 }
 ````
+
+- ### Foreach statement
+There is also a foreach loop, which is used exclusively to loop through elements in an array:
+````
+foreach (type variableName in arrayName) 
+{
+  // code block to be executed
+}
+````
+
+For example: 
+````
+string[] cars = {"Volvo", "BMW", "Ford", "Mazda"};
+foreach (string i in cars) 
+{
+  Console.WriteLine(i);
+}
+````
