@@ -9,11 +9,6 @@
 5. [ Conclusion. ](#conclusion)
 
 
-- This is a red colored line
-+ This is a green colored line
-@@ This is a purple colored line @@
-
-
 <a name="introduction"></a>
 - ## Part 1 - Introduction
 Using System declaration
