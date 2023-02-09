@@ -1,0 +1,15 @@
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\Part 10 - If Statement\Part 10 - If Statement\obj\Debug\net6.0\Part 10 - If Statement.csproj.AssemblyReference.cache
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\Part 10 - If Statement\Part 10 - If Statement\obj\Debug\net6.0\Part 10 - If Statement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\Part 10 - If Statement\Part 10 - If Statement\obj\Debug\net6.0\Part 10 - If Statement.AssemblyInfoInputs.cache
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\Part 10 - If Statement\Part 10 - If Statement\obj\Debug\net6.0\Part 10 - If Statement.AssemblyInfo.cs
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\Part 10 - If Statement\Part 10 - If Statement\obj\Debug\net6.0\Part 10 - If Statement.csproj.CoreCompileInputs.cache
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\Part 10 - If Statement\Part 10 - If Statement\bin\Debug\net6.0\Part 10 - If Statement.exe
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\Part 10 - If Statement\Part 10 - If Statement\bin\Debug\net6.0\Part 10 - If Statement.deps.json
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\Part 10 - If Statement\Part 10 - If Statement\bin\Debug\net6.0\Part 10 - If Statement.runtimeconfig.json
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\Part 10 - If Statement\Part 10 - If Statement\bin\Debug\net6.0\Part 10 - If Statement.dll
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\Part 10 - If Statement\Part 10 - If Statement\bin\Debug\net6.0\Part 10 - If Statement.pdb
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\Part 10 - If Statement\Part 10 - If Statement\obj\Debug\net6.0\Part 10 - If Statement.dll
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\Part 10 - If Statement\Part 10 - If Statement\obj\Debug\net6.0\refint\Part 10 - If Statement.dll
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\Part 10 - If Statement\Part 10 - If Statement\obj\Debug\net6.0\Part 10 - If Statement.pdb
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\Part 10 - If Statement\Part 10 - If Statement\obj\Debug\net6.0\Part 10 - If Statement.genruntimeconfig.cache
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\Part 10 - If Statement\Part 10 - If Statement\obj\Debug\net6.0\ref\Part 10 - If Statement.dll
