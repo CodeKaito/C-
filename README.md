@@ -6,6 +6,7 @@
 2. [ Reading and writing to a console. ](#part2)
 3. [ Data types. ](#part3)
 8. [ Arrays. ](#part8)
+9. [ If statement. ](#part10)
 13. [ While loop. ](#part13)
 15. [ For loop. ](#part15)
 
@@ -122,6 +123,9 @@ string[] cars = {"Volvo", "BMW", "Ford", "Mazda"};
 Console.WriteLine(cars.Length);
 // Outputs 4
 ````
+
+<a name="part10"></a>
+
 
 <a name="part13"></a>
 - ### Part 13 - While loop
