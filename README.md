@@ -6,6 +6,7 @@
 2. [ Reading and writing to a console. ](#part2)
 3. [ Data types. ](#part3)
 8. [ Arrays. ](#part8)
+9. [ Arrays. ](#part8)
 13. [ While loop. ](#part13)
 15. [ For loop. ](#part15)
 
