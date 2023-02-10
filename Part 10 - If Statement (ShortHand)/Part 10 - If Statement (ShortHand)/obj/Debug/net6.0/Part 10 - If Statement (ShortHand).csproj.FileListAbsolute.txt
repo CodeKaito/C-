@@ -1,0 +1,15 @@
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\Part 10 - If Statement (ShortHand)\Part 10 - If Statement (ShortHand)\bin\Debug\net6.0\Part 10 - If Statement (ShortHand).exe
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\Part 10 - If Statement (ShortHand)\Part 10 - If Statement (ShortHand)\bin\Debug\net6.0\Part 10 - If Statement (ShortHand).deps.json
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\Part 10 - If Statement (ShortHand)\Part 10 - If Statement (ShortHand)\bin\Debug\net6.0\Part 10 - If Statement (ShortHand).runtimeconfig.json
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\Part 10 - If Statement (ShortHand)\Part 10 - If Statement (ShortHand)\bin\Debug\net6.0\Part 10 - If Statement (ShortHand).dll
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\Part 10 - If Statement (ShortHand)\Part 10 - If Statement (ShortHand)\bin\Debug\net6.0\Part 10 - If Statement (ShortHand).pdb
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\Part 10 - If Statement (ShortHand)\Part 10 - If Statement (ShortHand)\obj\Debug\net6.0\Part 10 - If Statement (ShortHand).csproj.AssemblyReference.cache
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\Part 10 - If Statement (ShortHand)\Part 10 - If Statement (ShortHand)\obj\Debug\net6.0\Part 10 - If Statement (ShortHand).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\Part 10 - If Statement (ShortHand)\Part 10 - If Statement (ShortHand)\obj\Debug\net6.0\Part 10 - If Statement (ShortHand).AssemblyInfoInputs.cache
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\Part 10 - If Statement (ShortHand)\Part 10 - If Statement (ShortHand)\obj\Debug\net6.0\Part 10 - If Statement (ShortHand).AssemblyInfo.cs
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\Part 10 - If Statement (ShortHand)\Part 10 - If Statement (ShortHand)\obj\Debug\net6.0\Part 10 - If Statement (ShortHand).csproj.CoreCompileInputs.cache
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\Part 10 - If Statement (ShortHand)\Part 10 - If Statement (ShortHand)\obj\Debug\net6.0\Part 10 - If Statement (ShortHand).dll
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\Part 10 - If Statement (ShortHand)\Part 10 - If Statement (ShortHand)\obj\Debug\net6.0\refint\Part 10 - If Statement (ShortHand).dll
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\Part 10 - If Statement (ShortHand)\Part 10 - If Statement (ShortHand)\obj\Debug\net6.0\Part 10 - If Statement (ShortHand).pdb
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\Part 10 - If Statement (ShortHand)\Part 10 - If Statement (ShortHand)\obj\Debug\net6.0\Part 10 - If Statement (ShortHand).genruntimeconfig.cache
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\Part 10 - If Statement (ShortHand)\Part 10 - If Statement (ShortHand)\obj\Debug\net6.0\ref\Part 10 - If Statement (ShortHand).dll
