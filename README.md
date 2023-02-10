@@ -4,6 +4,7 @@
 
 1. [ Introduction. ](#introduction)
 2. [ Reading and writing to a console. ](#part2)
+  - [ User Input. ](#usernput)
 3. [ Data types. ](#part3)
 8. [ Arrays. ](#part8)
 9. [ If statement. ](#part10)
@@ -60,6 +61,7 @@ Note: Unlike Java, the name of the C# file does not have to match the class name
 
 Since, we are writing to console, so we will use Console.WriteLine() method.
 
+<a name="usernput"></a>
 - ### User Input
 You have already learned that Console.WriteLine() is used to output (print) values. Now we will use Console.ReadLine() to get user input.
 
