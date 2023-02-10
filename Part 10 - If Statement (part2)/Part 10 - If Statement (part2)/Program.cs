@@ -11,3 +11,6 @@ else
 {
     Console.WriteLine("Your number is not 10 either 20");
 }
+
+// && - & means and 
+// || - | means or
