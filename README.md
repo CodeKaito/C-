@@ -91,6 +91,21 @@ Console.WriteLine("Username is: " + userName);
 A variable in C# must be a specified data type:
 ![image](https://user-images.githubusercontent.com/57111980/217227481-8d6fcc38-04fe-43b0-8acf-2b44de23916e.png)
 Numbers:
+
+| Data Type | Size | Description |
+| :---         |     :---:      |          ---: |
+| int   | git status     | git status    |
+| long     | git diff       | git diff      |
+| float     | git diff       | git diff      |
+| double     | git diff       | git diff      |
+| bool    | git diff       | git diff      |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
+| git diff     | git diff       | git diff      |
+| git diff     | git diff       | git diff      |
+| git diff     | git diff       | git diff      |
+
+
 Integer types stores whole numbers, positive or negative (such as 123 or -456), without decimals. Valid types are int and long. Which type you should use, depends on the numeric value.
 
 Floating point types represents numbers with a fractional part, containing one or more decimals. Valid types are float and double.
