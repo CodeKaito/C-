@@ -393,3 +393,5 @@ foreach (string i in cars)
 Released 2023 by [CodeKaito](https://github.com/CodeKaito)
 
 ## Contributors
+
+ <a href="https://github.com/dowjones/react-dropdown-tree-select/commits?author=toofff" title="Code">💻</a> <a href="https://github.com/dowjones/react-dropdown-tree-select/commits?author=toofff" title="Documentation">📖</a> <a href="#ideas-toofff" title="Ideas, Planning, & Feedback">🤔</a>
