@@ -177,6 +177,23 @@ else
 variable = (condition) ? expressionTrue :  expressionFalse;
 ````
 
+example: 
+````
+int time = 20;
+if (time < 18) 
+{
+  Console.WriteLine("Good day.");
+} 
+else 
+{
+  Console.WriteLine("Good evening.");
+}
+----------------------------------------------------------------
+int time = 20;
+string result = (time < 18) ? "Good day." : "Good evening.";
+Console.WriteLine(result);
+````
+
 <a name="part13"></a>
 - ## Part 13 - While loop
 The while loop loops through a block of code as long as a specified condition is True:
