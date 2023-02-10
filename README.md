@@ -4,7 +4,7 @@
 
 1. [ Introduction. ](#introduction)
 2. [ Reading and writing to a console. ](#part2)
-  - [ User Input. ](#usernput)
+   - [ User Input. ](#usernput)
 3. [ Data types. ](#part3)
 8. [ Arrays. ](#part8)
 9. [ If statement. ](#part10)
