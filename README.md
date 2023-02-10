@@ -93,7 +93,7 @@ You should use a floating point type whenever you need a number with a decimal, 
 The float and double data types can store fractional numbers. Note that you should end the value with an "F" for floats and "D" for doubles.
 
 <a name="part8"></a>
-- ### Part 8 - Arrays
+- ## Part 8 - Arrays
 Arrays are used to store multiple values in a single variable, instead of declaring separate variables for each value.
 
 To declare an array, define the variable type with square brackets:
@@ -125,7 +125,7 @@ Console.WriteLine(cars.Length);
 ````
 
 <a name="part10"></a>
-- ### Part 10 - If statement
+- ## Part 10 - If statement
 Use the if statement to specify a block of C# code to be executed if a condition is True.
 ````
 if (condition) 
@@ -178,7 +178,7 @@ variable = (condition) ? expressionTrue :  expressionFalse;
 ````
 
 <a name="part13"></a>
-- ### Part 13 - While loop
+- ## Part 13 - While loop
 The while loop loops through a block of code as long as a specified condition is True:
 ````
 do 
