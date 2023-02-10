@@ -12,10 +12,11 @@
    - [ Else if statement. ](#elseif)
    - [ Shorthand If-Else. ](#shorthand)
 13. [ While loop. ](#part13)
+
 15. [ For loop. ](#part15)
-   - [ break. ](#break)
-   - [ continue. ](#continue)
-   - [ foreach. ](#foreach)
+      - [ Break. ](#break)
+      - [ Continue. ](#continue)
+      - [ Foreach. ](#foreach)
 
 
 <a name="introduction"></a>
