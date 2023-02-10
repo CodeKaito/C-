@@ -337,6 +337,8 @@ for (int i = 1; i <= 2; ++i)
 }
 ````
 The number of times that the inner loop will be executed is indicated by the Statement 2 moltiplicated by the Statement 2 of the first loop.
+
+<a name="break"></a>
 - ### Break statement
 You have already seen the break statement used in an earlier chapter of this tutorial. It was used to "jump out" of a switch statement.
 
@@ -353,6 +355,8 @@ for (int i = 0; i < 10; i++)
   Console.WriteLine(i);
 }
 ````
+
+<a name="continue"></a>
 - ### Continue statement
 The continue statement breaks one iteration (in the loop), if a specified condition occurs, and continues with the next iteration in the loop.
 
@@ -368,6 +372,7 @@ for (int i = 0; i < 10; i++)
 }
 ````
 
+<a name="foreach"></a>
 - ### Foreach statement
 There is also a foreach loop, which is used exclusively to loop through elements in an array:
 ````
