@@ -126,7 +126,56 @@ Console.WriteLine(cars.Length);
 
 <a name="part10"></a>
 - ### Part 10 - If statement
+Use the if statement to specify a block of C# code to be executed if a condition is True.
+````
+if (condition) 
+{
+  // block of code to be executed if the condition is True
+}
+  // Note that if is in lowercase letters. Uppercase letters (If or IF) will generate an error.
+````
 
+In the example below, we test two values to find out if 20 is greater than 18. If the condition is True, print some text:
+````
+if (20 > 18) 
+{
+  Console.WriteLine("20 is greater than 18");
+}
+````
+
+- ### Else statement
+Use the else statement to specify a block of code to be executed if the condition is False.
+````
+if (condition)
+{
+  // block of code to be executed if the condition is True
+} 
+else 
+{
+  // block of code to be executed if the condition is False
+}
+````
+
+- ### Else if statement
+````
+if (condition1)
+{
+  // block of code to be executed if condition1 is True
+} 
+else if (condition2) 
+{
+  // block of code to be executed if the condition1 is false and condition2 is True
+} 
+else
+{
+  // block of code to be executed if the condition1 is false and condition2 is False
+}
+````
+
+- ### Shorthand If-Else (Binary operator)
+````
+variable = (condition) ? expressionTrue :  expressionFalse;
+````
 
 <a name="part13"></a>
 - ### Part 13 - While loop
