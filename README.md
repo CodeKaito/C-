@@ -12,7 +12,7 @@
    - [ Else if statement. ](#elseif)
    - [ Shorthand If-Else. ](#shorthand)
 13. [ While loop. ](#part13)
-
+      - [ Do while. ](#dowhile)
 15. [ For loop. ](#part15)
       - [ Break. ](#break)
       - [ Continue. ](#continue)
@@ -220,6 +220,7 @@ while (condition);
 ````
 ⚠️ Do not forget to increase the variable used in the condition, otherwise the loop will never end!
 
+<a name="dowhile"></a>
 - ### Do while loop in c#
 The example below uses a do/while loop. The loop will always be executed at least once, even if the condition is false, because the code block is executed before the condition is tested:
 ````
