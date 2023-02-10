@@ -13,6 +13,9 @@
    - [ Shorthand If-Else. ](#shorthand)
 13. [ While loop. ](#part13)
 15. [ For loop. ](#part15)
+   - [ break. ](#break)
+   - [ continue. ](#continue)
+   - [ foreach. ](#foreach)
 
 
 <a name="introduction"></a>
