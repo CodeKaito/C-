@@ -8,6 +8,9 @@
 3. [ Data types. ](#part3)
 8. [ Arrays. ](#part8)
 9. [ If statement. ](#part10)
+   - [ Else statement. ](#else)
+   - [ Else if statement. ](#elseif)
+   - [ Shorthand If-Else. ](#shorthand)
 13. [ While loop. ](#part13)
 15. [ For loop. ](#part15)
 
@@ -145,6 +148,7 @@ if (20 > 18)
 }
 ````
 
+<a name="else"></a>
 - ### Else statement
 Use the else statement to specify a block of code to be executed if the condition is False.
 ````
@@ -158,6 +162,7 @@ else
 }
 ````
 
+<a name="elseif"></a>
 - ### Else if statement
 ````
 if (condition1)
@@ -174,6 +179,7 @@ else
 }
 ````
 
+<a name="shorthand"></a>
 - ### Shorthand If-Else (Binary operator)
 ````
 variable = (condition) ? expressionTrue :  expressionFalse;
