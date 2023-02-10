@@ -56,11 +56,11 @@ Line 9: Console is a class of the System namespace, which has a WriteLine() meth
 
 If you omit the using System line, you would have to write System.Console.WriteLine() to print/output text.
 
-Note: Every C# statement ends with a semicolon ;.
+⚠️ Note: Every C# statement ends with a semicolon ;.
 
-Note: C# is case-sensitive: "MyClass" and "myclass" has different meaning.
+⚠️ Note: C# is case-sensitive: "MyClass" and "myclass" has different meaning.
 
-Note: Unlike Java, the name of the C# file does not have to match the class name, but they often do (for better organization). When saving the file, save it using a proper name and add ".cs" to the end of the filename. To run the example above on your computer, make sure that C# is properly installed: Go to the Get Started Chapter for how to install C#. The output should be:
+⚠️ Note: Unlike Java, the name of the C# file does not have to match the class name, but they often do (for better organization). When saving the file, save it using a proper name and add ".cs" to the end of the filename. To run the example above on your computer, make sure that C# is properly installed: Go to the Get Started Chapter for how to install C#. The output should be:
 
 Since, we are writing to console, so we will use Console.WriteLine() method.
 
@@ -82,6 +82,8 @@ Console.WriteLine("Username is: " + userName);
 
 <a name="part3"></a>
 - ## Part 3 - Data types
+⚠️ Note: It's very important in C# to define the type of the data!
+
 A variable in C# must be a specified data type:
 ![image](https://user-images.githubusercontent.com/57111980/217227481-8d6fcc38-04fe-43b0-8acf-2b44de23916e.png)
 Numbers:
@@ -211,8 +213,8 @@ do
   // code block to be executed
 }
 while (condition);
-// Do not forget to increase the variable used in the condition, otherwise the loop will never end!
 ````
+⚠️ Do not forget to increase the variable used in the condition, otherwise the loop will never end!
 
 - ### Do while loop in c#
 The example below uses a do/while loop. The loop will always be executed at least once, even if the condition is false, because the code block is executed before the condition is tested:
