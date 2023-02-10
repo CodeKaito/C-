@@ -3,7 +3,6 @@
 ### Index
 
 1. [ Introduction. ](#introduction)
-  2. [ Introduction. ](#introduction)
 2. [ Reading and writing to a console. ](#part2)
 3. [ Data types. ](#part3)
 8. [ Arrays. ](#part8)
