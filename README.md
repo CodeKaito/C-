@@ -385,3 +385,11 @@ foreach (string i in cars)
   Console.WriteLine(i);
 }
 ````
+
+## License
+
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
+
+Released 2023 by [CodeKaito](https://github.com/CodeKaito)
+
+## Contributors
