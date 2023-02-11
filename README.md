@@ -417,6 +417,12 @@ Methods are used to perform certain actions, and they are also known as `functio
 
 Why use methods? To reuse code: define the code once, and use it many times.
 
+### How to create a method?
+A method is defined with the name of the method, followed by `parentheses ()`.
+C# provides some pre-defined methods, which you already are familiar with, such as `Main()`,
+but you can also create your own methods to perform certain actions:
+
+
 
 
 ## License
