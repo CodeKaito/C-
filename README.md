@@ -430,9 +430,11 @@ class Program
   }
 }
 ````
-- `MyMethod()` is the name of the method
+- `MyMethod()` is the name of the method.
 - `static` means that the method belongs to the Program class and not an object of the Program class. You will learn more about objects and how to access methods through objects later in this tutorial.
-- `void` means that this method does not have a return value. You will learn more about return values later in this chapter
+- `void` means that this method does not have a return value. You will learn more about return values later in this chapter.
+
+⚠️ Note: In C#, it is good practice to start with an uppercase letter when naming methods, as it makes the code easier to read.
 
 
 ## License
