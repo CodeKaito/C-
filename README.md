@@ -421,8 +421,15 @@ Why use methods? To reuse code: define the code once, and use it many times.
 A method is defined with the name of the method, followed by `parentheses ()`.
 C# provides some pre-defined methods, which you already are familiar with, such as `Main()`,
 but you can also create your own methods to perform certain actions:
-
-
+````
+class Program
+{
+  static void MyMethod() 
+  {
+    // code to be executed
+  }
+}
+````
 
 
 ## License
