@@ -17,6 +17,7 @@
       - [ Break. ](#break)
       - [ Continue. ](#continue)
       - [ Foreach. ](#foreach)
+16. [ Method.](#part16)
 
 
 <a name="introduction"></a>
