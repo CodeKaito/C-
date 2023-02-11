@@ -409,7 +409,7 @@ foreach (string i in cars)
 
 <a href="part16"></a>
 - ## Part 16 - Method
-A 'method' is a block of code which only runs when it is called.
+A `method` is a block of code which only runs when it is called.
 
 You can pass data, known as parameters, into a method.
 
