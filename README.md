@@ -509,6 +509,9 @@ static void Main(string[] args)
 
 `When a parameter is passed to the method, it is called an argument. So, from the example above: fname is a parameter, while Liam, Jenny and Anja are arguments.`
 
+### Multiple Parameters
+
+
 ## License
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
