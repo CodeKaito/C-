@@ -480,6 +480,14 @@ static void Main(string[] args)
 <a name="methodparameters"></a>
 - ## Part 16 - Method Parameters
 
+### Parameters and Arguments
+
+Information can be passed to methods as parameter. Parameters act as variables inside the method.
+
+They are specified after the method name, inside the parentheses. You can add as many parameters as you want, just separate them with a comma.
+
+The following example has a method that takes a `string` called `fname` as parameter. When the method is called, we pass along a first name, which is used inside the method to print the full name:
+
 ## License
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
