@@ -535,6 +535,9 @@ static void Main(string[] args)
 
 ⚠️ Note: when you are working with multiple parameters, the method call must have the same number of arguments as there are parameters, and the arguments must be passed in the same order.
 
+<a name="defaultparameters"></a>
+- ## Part 16 - Default Parameters
+
 ## License
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
