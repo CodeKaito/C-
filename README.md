@@ -18,6 +18,8 @@
       - [ Continue. ](#continue)
       - [ Foreach. ](#foreach)
 16. [ Method.](#part16)
+      - [ Method Parameters ](#methodparameters)
+            - [ Default Parameters ]
 
 
 <a name="introduction"></a>
@@ -455,6 +457,28 @@ static void Main(string[] args)
 
 // Outputs "I just got executed!"
 ````
+
+A method can be used multiple times, for example:
+````
+static void MyMethod() 
+{
+  Console.WriteLine("I just got executed!");
+}
+
+static void Main(string[] args)
+{
+  MyMethod();
+  MyMethod();
+  MyMethod();
+}
+
+// I just got executed!
+// I just got executed!
+// I just got executed!
+````
+
+<a name="methodparameters"></a>
+- ## Part 16 - Method Parameters
 
 ## License
 
