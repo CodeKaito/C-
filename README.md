@@ -538,6 +538,14 @@ static void Main(string[] args)
 <a name="defaultparameters"></a>
 - ## Part 16 - Default Parameters
 
+### Default Parameter Value
+
+You can also use a default parameter value, by using the equals sign (=).
+
+If we call the method without an argument, it uses the default value ("Norway"):
+````
+````
+
 ## License
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
