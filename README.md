@@ -441,6 +441,20 @@ To call (execute) a method, write the method's name followed by two parentheses 
 
 In the following example, `MyMethod()` is used to print a text (the action), when it is called:
 
+Example:
+````
+static void MyMethod() 
+{
+  Console.WriteLine("I just got executed!");
+}
+
+static void Main(string[] args)
+{
+  MyMethod();
+}
+
+// Outputs "I just got executed!"
+````
 
 ## License
 
