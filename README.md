@@ -648,6 +648,18 @@ static void Main(string[] args)
 // The youngest child is: John
 ````
 
+<a name="methodoverloading"></a>
+- ## Part 16 - Method Overloading
+### Method Overloading
+With method overloading, multiple methods can have the same name with different parameters:
+
+Example:
+````
+int MyMethod(int x)
+float MyMethod(float x)
+double MyMethod(double x, double y)
+````
+
 ## License
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
