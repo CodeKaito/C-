@@ -591,6 +591,40 @@ static void Main(string[] args)
 
 // Outputs 8 (5 + 3)
 ````
+This example returns the sum of a method's two parameters:
+
+Example:
+````
+static int MyMethod(int x, int y) 
+{
+  return x + y;
+}
+
+static void Main(string[] args)
+{
+  Console.WriteLine(MyMethod(5, 3));
+}
+
+// Outputs 8 (5 + 3)
+````
+
+You can also store the result in a variable (recommended, as it is easier to read and maintain):
+
+Example:
+````
+static int MyMethod(int x, int y) 
+{
+  return x + y;
+}
+
+static void Main(string[] args)
+{
+  int z = MyMethod(5, 3);
+  Console.WriteLine(z);
+}
+
+// Outputs 8 (5 + 3)
+````
 
 ## License
 
