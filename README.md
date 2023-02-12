@@ -488,6 +488,27 @@ They are specified after the method name, inside the parentheses. You can add as
 
 The following example has a method that takes a `string` called `fname` as parameter. When the method is called, we pass along a first name, which is used inside the method to print the full name:
 
+Example:
+````
+static void MyMethod(string fname) 
+{
+  Console.WriteLine(fname + " Refsnes");
+}
+
+static void Main(string[] args)
+{
+  MyMethod("Liam");
+  MyMethod("Jenny");
+  MyMethod("Anja");
+}
+
+// Liam Refsnes
+// Jenny Refsnes
+// Anja Refsnes
+````
+
+`When a parameter is passed to the method, it is called an argument. So, from the example above: fname is a parameter, while Liam, Jenny and Anja are arguments.`
+
 ## License
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
