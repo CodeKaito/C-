@@ -20,6 +20,8 @@
 16. [ Method.](#part16)
       - [ Method Parameters ](#methodparameters)
       - [ Default Parameters ](#defaultparameters)
+      - [ Return Values ](#returnvalues)
+      - [ Named Arguments ](#namedarguments)
 
 
 <a name="introduction"></a>
