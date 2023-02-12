@@ -568,6 +568,8 @@ static void Main(string[] args)
 // USA
 ````
 
+⚠️ Note: A parameter with a default value, is often known as an "optional parameter". From the example above, country is an optional parameter and "Norway" is the default value.
+
 ## License
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
