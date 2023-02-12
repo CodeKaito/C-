@@ -533,6 +533,8 @@ static void Main(string[] args)
 // Anja is 31
 ````
 
+⚠️ Note: when you are working with multiple parameters, the method call must have the same number of arguments as there are parameters, and the arguments must be passed in the same order.
+
 ## License
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
