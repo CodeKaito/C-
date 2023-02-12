@@ -629,6 +629,24 @@ static void Main(string[] args)
 <a name="namedarguments"></a>
 - ## Part 16 - Named Arguments
 ### Named Arguments
+It is also possible to send arguments with the `key: value` syntax.
+
+That way, the order of the arguments does not matter:
+
+Example:
+````
+static void MyMethod(string child1, string child2, string child3) 
+{
+  Console.WriteLine("The youngest child is: " + child3);
+}
+
+static void Main(string[] args)
+{
+  MyMethod(child3: "John", child1: "Liam", child2: "Liam");
+}
+
+// The youngest child is: John
+````
 
 ## License
 
