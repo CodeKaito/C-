@@ -572,6 +572,10 @@ static void Main(string[] args)
 
 <a name="returnvalues"></a>
 - ## Part 16 - Return Values
+### Return Values
+In the previous page, we used the `void` keyword in all examples, which indicates that the method should not return a value.
+
+If you want the method to return a value, you can use a primitive data type (such as `int` or `double`) instead of `void`, and use the `return` keyword inside the method:
 
 ## License
 
