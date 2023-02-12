@@ -626,6 +626,10 @@ static void Main(string[] args)
 // Outputs 8 (5 + 3)
 ````
 
+<a name="namedarguments"></a>
+- ## Part 16 - Named Arguments
+### Named Arguments
+
 ## License
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
