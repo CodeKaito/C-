@@ -1,0 +1,15 @@
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\Part 16 - Method Parameters\Part 16 - Method Parameters\bin\Debug\net6.0\Part 16 - Method Parameters.exe
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\Part 16 - Method Parameters\Part 16 - Method Parameters\bin\Debug\net6.0\Part 16 - Method Parameters.deps.json
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\Part 16 - Method Parameters\Part 16 - Method Parameters\bin\Debug\net6.0\Part 16 - Method Parameters.runtimeconfig.json
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\Part 16 - Method Parameters\Part 16 - Method Parameters\bin\Debug\net6.0\Part 16 - Method Parameters.dll
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\Part 16 - Method Parameters\Part 16 - Method Parameters\bin\Debug\net6.0\Part 16 - Method Parameters.pdb
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\Part 16 - Method Parameters\Part 16 - Method Parameters\obj\Debug\net6.0\Part 16 - Method Parameters.csproj.AssemblyReference.cache
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\Part 16 - Method Parameters\Part 16 - Method Parameters\obj\Debug\net6.0\Part 16 - Method Parameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\Part 16 - Method Parameters\Part 16 - Method Parameters\obj\Debug\net6.0\Part 16 - Method Parameters.AssemblyInfoInputs.cache
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\Part 16 - Method Parameters\Part 16 - Method Parameters\obj\Debug\net6.0\Part 16 - Method Parameters.AssemblyInfo.cs
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\Part 16 - Method Parameters\Part 16 - Method Parameters\obj\Debug\net6.0\Part 16 - Method Parameters.csproj.CoreCompileInputs.cache
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\Part 16 - Method Parameters\Part 16 - Method Parameters\obj\Debug\net6.0\Part 16 - Method Parameters.dll
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\Part 16 - Method Parameters\Part 16 - Method Parameters\obj\Debug\net6.0\refint\Part 16 - Method Parameters.dll
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\Part 16 - Method Parameters\Part 16 - Method Parameters\obj\Debug\net6.0\Part 16 - Method Parameters.pdb
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\Part 16 - Method Parameters\Part 16 - Method Parameters\obj\Debug\net6.0\Part 16 - Method Parameters.genruntimeconfig.cache
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\Part 16 - Method Parameters\Part 16 - Method Parameters\obj\Debug\net6.0\ref\Part 16 - Method Parameters.dll
