@@ -1,0 +1,15 @@
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\Part 16 - Method (part 2)\Part 16 - Method (part 2)\obj\Debug\net6.0\Part 16 - Method (part 2).csproj.AssemblyReference.cache
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\Part 16 - Method (part 2)\Part 16 - Method (part 2)\obj\Debug\net6.0\Part 16 - Method (part 2).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\Part 16 - Method (part 2)\Part 16 - Method (part 2)\obj\Debug\net6.0\Part 16 - Method (part 2).AssemblyInfoInputs.cache
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\Part 16 - Method (part 2)\Part 16 - Method (part 2)\obj\Debug\net6.0\Part 16 - Method (part 2).AssemblyInfo.cs
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\Part 16 - Method (part 2)\Part 16 - Method (part 2)\obj\Debug\net6.0\Part 16 - Method (part 2).csproj.CoreCompileInputs.cache
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\Part 16 - Method (part 2)\Part 16 - Method (part 2)\bin\Debug\net6.0\Part 16 - Method (part 2).exe
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\Part 16 - Method (part 2)\Part 16 - Method (part 2)\bin\Debug\net6.0\Part 16 - Method (part 2).deps.json
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\Part 16 - Method (part 2)\Part 16 - Method (part 2)\bin\Debug\net6.0\Part 16 - Method (part 2).runtimeconfig.json
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\Part 16 - Method (part 2)\Part 16 - Method (part 2)\bin\Debug\net6.0\Part 16 - Method (part 2).dll
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\Part 16 - Method (part 2)\Part 16 - Method (part 2)\bin\Debug\net6.0\Part 16 - Method (part 2).pdb
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\Part 16 - Method (part 2)\Part 16 - Method (part 2)\obj\Debug\net6.0\Part 16 - Method (part 2).dll
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\Part 16 - Method (part 2)\Part 16 - Method (part 2)\obj\Debug\net6.0\refint\Part 16 - Method (part 2).dll
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\Part 16 - Method (part 2)\Part 16 - Method (part 2)\obj\Debug\net6.0\Part 16 - Method (part 2).pdb
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\Part 16 - Method (part 2)\Part 16 - Method (part 2)\obj\Debug\net6.0\Part 16 - Method (part 2).genruntimeconfig.cache
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\Part 16 - Method (part 2)\Part 16 - Method (part 2)\obj\Debug\net6.0\ref\Part 16 - Method (part 2).dll
