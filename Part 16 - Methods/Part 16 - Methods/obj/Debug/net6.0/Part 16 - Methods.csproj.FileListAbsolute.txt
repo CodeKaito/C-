@@ -1,0 +1,15 @@
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\Part 16 - Methods\Part 16 - Methods\obj\Debug\net6.0\Part 16 - Methods.csproj.AssemblyReference.cache
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\Part 16 - Methods\Part 16 - Methods\obj\Debug\net6.0\Part 16 - Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\Part 16 - Methods\Part 16 - Methods\obj\Debug\net6.0\Part 16 - Methods.AssemblyInfoInputs.cache
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\Part 16 - Methods\Part 16 - Methods\obj\Debug\net6.0\Part 16 - Methods.AssemblyInfo.cs
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\Part 16 - Methods\Part 16 - Methods\obj\Debug\net6.0\Part 16 - Methods.csproj.CoreCompileInputs.cache
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\Part 16 - Methods\Part 16 - Methods\bin\Debug\net6.0\Part 16 - Methods.exe
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\Part 16 - Methods\Part 16 - Methods\bin\Debug\net6.0\Part 16 - Methods.deps.json
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\Part 16 - Methods\Part 16 - Methods\bin\Debug\net6.0\Part 16 - Methods.runtimeconfig.json
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\Part 16 - Methods\Part 16 - Methods\bin\Debug\net6.0\Part 16 - Methods.dll
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\Part 16 - Methods\Part 16 - Methods\bin\Debug\net6.0\Part 16 - Methods.pdb
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\Part 16 - Methods\Part 16 - Methods\obj\Debug\net6.0\Part 16 - Methods.dll
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\Part 16 - Methods\Part 16 - Methods\obj\Debug\net6.0\refint\Part 16 - Methods.dll
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\Part 16 - Methods\Part 16 - Methods\obj\Debug\net6.0\Part 16 - Methods.pdb
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\Part 16 - Methods\Part 16 - Methods\obj\Debug\net6.0\Part 16 - Methods.genruntimeconfig.cache
+C:\Users\Admmcsidecinco\Documents\repository\Csharp\Part 16 - Methods\Part 16 - Methods\obj\Debug\net6.0\ref\Part 16 - Methods.dll
