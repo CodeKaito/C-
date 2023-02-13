@@ -6,11 +6,11 @@
 
         SimpleMethod(ref i);
 
-        Saluta();
+        Saluta("marco");
 
         // i = 0;
 
-        Console.WriteLine(i);
+        //Console.WriteLine(i);
     }
 
     public static void SimpleMethod(ref int j)
@@ -18,8 +18,8 @@
         j = 100;
     }
 
-    static void Saluta()
+    static void Saluta(string nome)
     {
-        Console.WriteLine("Ciao");
+        Console.WriteLine($"Ciao {nome}");
     }
 }
