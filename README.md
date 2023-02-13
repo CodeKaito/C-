@@ -70,7 +70,13 @@ If you omit the using System line, you would have to write System.Console.WriteL
 
 ⚠️ Note: C# is case-sensitive: "MyClass" and "myclass" has different meaning.
 
-⚠️ Note: Unlike Java, the name of the C# file does not have to match the class name, but they often do (for better organization). When saving the file, save it using a proper name and add ".cs" to the end of the filename. To run the example above on your computer, make sure that C# is properly installed: Go to the Get Started Chapter for how to install C#. The output should be:
+⚠️ Note: Unlike Java, the name of the C# file does not have to match the class name, but they often do (for better organization). When saving the file, save it using a proper name and add ".cs" to the end of the filename.
+
+⚠️ Note: In C#, the Main method is the entry point of the application, that is, the first method that runs when the application starts. The string[] args parameter is used to pass command-line arguments to the application.
+
+Command-line arguments are strings that are passed to the application at startup. The args parameter is an array of strings representing these arguments. This means that you can access each argument passed to the application via the args array. For example, args[0] represents the first argument passed to the application.
+
+The string[] args parameter is not required, but it is a common convention to use this name for the parameter representing command-line arguments. You can also use another name for the parameter, but this could cause confusion for other developers reading your code.
 
 Since, we are writing to console, so we will use Console.WriteLine() method.
 
