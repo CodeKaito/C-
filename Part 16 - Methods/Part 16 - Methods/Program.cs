@@ -1,11 +1,6 @@
 ﻿class Program
 {
-    static void Main()
-    {
-        Program p = new Program();
-        p.EvenNumbers();
-    }
-    public void EvenNumbers()
+    static void EvenNumbers()
     {
         int Start = 0;
 
@@ -15,5 +10,9 @@
 
             Start = Start + 1;
         }
+    }
+    static void Main(string[] args)
+    {
+        EvenNumbers();
     }
 }
