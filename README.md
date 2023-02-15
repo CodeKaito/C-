@@ -30,6 +30,7 @@
       - [ Access Modifiers ](#modifiers)
       - [ Properties ](#properties)
       - [ Inheritance ](#inheritance)
+      - [ Polymorphism ](#polymorphism)
       
 
 
