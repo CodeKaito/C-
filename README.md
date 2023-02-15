@@ -31,6 +31,8 @@
       - [ Properties ](#properties)
       - [ Inheritance ](#inheritance)
       - [ Polymorphism ](#polymorphism)
+      - [ Abstraction ](#abstraction)
+      - [ Interface )(#interface)
       
 
 
