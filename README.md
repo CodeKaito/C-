@@ -29,6 +29,7 @@
       - [ Constructors ](#constructors)
       - [ Access Modifiers ](#modifiers)
       - [ Properties ](#properties)
+      - [ Inheritance ](#inheritance)
       
 
 
