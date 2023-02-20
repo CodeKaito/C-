@@ -32,7 +32,7 @@
       - [ Inheritance ](#inheritance)
       - [ Polymorphism ](#polymorphism)
       - [ Abstraction ](#abstraction)
-      - [ Interface )(#interface)
+      - [ Interface ](#interface)
       - [ Enums ](#enums)
       - [ Files ](#files)
       - [ Exception ](#expection)
