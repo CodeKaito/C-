@@ -766,6 +766,10 @@ class Car
 }
 ````
 
+When a variable is declared directly in a class, it is often referred to as a field (or attribute).
+
+It is not required, but it is a good practice to start with an uppercase first letter when naming classes. Also, it is common that the name of the C# file and the class matches, as it makes our code organized. However it is not required (like in Java).
+
 ## License
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
