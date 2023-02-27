@@ -20,13 +20,13 @@
 
 ---------------------------------------------------------
 
-16. [ Method.](#part16)
+1. [ Method.](#part16)
       - [ Method Parameters ](#methodparameters)
       - [ Default Parameters ](#defaultparameters)
       - [ Return Values ](#returnvalues)
       - [ Named Arguments ](#namedarguments)
       - [ Method Overloading ](#methodoverloading)
-17. [ Classes. ](#part17)
+2. [ Classes. ](#part17)
       - [ Classes/Objects ](#objects)
       - [ Class Members ](#members)
       - [ Constructors ](#constructors)
