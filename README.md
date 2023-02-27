@@ -26,7 +26,7 @@
       - [ Return Values ](#returnvalues)
       - [ Named Arguments ](#namedarguments)
       - [ Method Overloading ](#methodoverloading)
-2. [ Classes. ](#part17)
+2. [ Classes. ](#classes)
       - [ Classes/Objects ](#objects)
       - [ Class Members ](#members)
       - [ Constructors ](#constructors)
