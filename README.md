@@ -758,6 +758,14 @@ Everything in C# is associated with classes and objects, along with its attribut
 
 A Class is like an object constructor, or a "blueprint" for creating objects.
 
+To create a class, use the class keyword:
+````
+class Car 
+{
+  string color = "red";
+}
+````
+
 ## License
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
