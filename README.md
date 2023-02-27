@@ -771,6 +771,23 @@ When a variable is declared directly in a class, it is often referred to as a fi
 
 It is not required, but it is a good practice to start with an uppercase first letter when naming classes. Also, it is common that the name of the C# file and the class matches, as it makes our code organized. However it is not required (like in Java).
 
+### Create an Object
+An object is created from a class. We have already created the class named Car, so now we can use this to create objects.
+
+To create an object of Car, specify the class name, followed by the object name, and use the keyword new:
+````
+class Car 
+{
+  string color = "red";
+
+  static void Main(string[] args)
+  {
+    Car myObj = new Car();
+    Console.WriteLine(myObj.color);
+  }
+}
+````
+
 ## License
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
