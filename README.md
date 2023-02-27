@@ -788,6 +788,8 @@ class Car
 }
 ````
 
+⚠️ Note that we use the dot syntax (.) to access variables/fields inside a class (myObj.color)
+
 ## License
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
